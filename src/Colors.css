@@ -1,0 +1,59 @@
+.Colors{
+    background-color: rgb(0, 0, 0);
+    width: 50vw;
+    height: 40vh;
+    font-size: 0px;
+}
+
+.ColorCreated{
+  width: 50vw;
+  height: 40vh;
+}
+
+body{
+  font-size: 0px;
+}
+
+p.italic {
+    font-style:italic ;
+  }
+p {
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+  }
+
+  
+.p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+
+.p1 {
+    position: relative; left:0px; top:2px;
+    font-size: 20px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+.button {
+    background-color: white;
+    border: black;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: relative; left:0px; top:2px;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  input[type=text] {
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: "Times New Roman", Times, serif;
+
+  }
